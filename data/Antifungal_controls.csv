@@ -1,0 +1,9 @@
+Table,Extract_solvent,Isolate_column,Control,Reported_inhibition_mm
+3,DMSO,Aspergillus,DMSO,0
+3,DMSO,Aspergillus,Fluconazole,27
+3,DMSO,Fusarium,DMSO,0
+3,DMSO,Fusarium,Fluconazole,27
+4,Water,Aspergillus,DMSO,0
+4,Water,Aspergillus,Fluconazole,27
+4,Water,Fusarium,DMSO,0
+4,Water,Fusarium,Fluconazole,27.5
